@@ -1,7 +1,7 @@
 # aws-terraform
 j'ai tout d'abord créer la clef paire (firstkeypair)
 j'ai créer une instance ubuntu 18.03
-je me suis connecter en ssh ubuntu@3.86.24.13
+je me suis connecter en ssh ubuntu@IP
 j'ai effectué l'installation :
 sudo apt update
 sudo apt install nginx
